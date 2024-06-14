@@ -14,3 +14,12 @@
     "react-native-screens": "^3.31.1"
   }
 }
+
+"scripts": {
+  "android": "react-native run-android",
+  "ios": "react-native run-ios",
+  "start": "react-native start",
+  "test": "jest",
+  "lint": "eslint ."
+},
+
